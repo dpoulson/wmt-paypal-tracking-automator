@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WMT PayPal Tracking Automator 1.0.5\n"
+"Report-Msgid-Bugs-To: https://wemakethings.co.uk\n"
+"POT-Creation-Date: 2026-04-22 23:51+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Antigravity\n"
+"X-Domain: wmt-paypal-tracking-automator\n"
+
+#: wmt-paypal-tracking-automator.php:39
+msgid "WMT PayPal Tracking Automator"
+msgstr "WMT PayPal 追踪自动化"
+
+#: wmt-paypal-tracking-automator.php:44
+msgid "Enable Debug Mode"
+msgstr "启用调试模式"
+
+#: includes/class-wmt-paypal-sync.php:150
+#, php-format
+msgid "PayPal API: Tracking %s (Royal Mail) added to transaction."
+msgstr "PayPal API：追踪号码 %s (Royal Mail) 已添加到交易。"
+
+#: includes/class-wmt-paypal-sync.php:163
+msgid "Manual PayPal Sync Scan"
+msgstr "手动 PayPal 同步扫描"
